@@ -6,9 +6,7 @@ Eager to leverage practical project experience and software development best pra
 
 <img align="right" src="./Programmer.jpg" alt="coding" height="250px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinbhawar2014&label=Profile%20views&color=0e75b6&style=flat" alt="sachinbhawar2014" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinbhawar2014" alt="sachinbhawar2014" /></a> </p>
 
 -   🌱 I’m currently learning **react**
 
