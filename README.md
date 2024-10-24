@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sachin Bhawar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Full Stack Developer with a strong foundation in the MERN stack and a passion for creating dynamic and responsive web applications. 
+Proficient in both frontend and backend technologies, including HTML, CSS, JavaScript, React (with Hooks), Redux Toolkit, and Bootstrap for building user interfaces. Experienced in server-side development using Node.js and Express.js, and adept at managing databases with MongoDB and Firebase Firestore. Familiar with version control systems such as Git and GitHub, ensuring efficient collaboration and code management. 
+Eager to leverage practical project experience and software development best practices to contribute to innovative solutions in a professional setting.
+</h3>
 
-<img align="right" src="./Programmer.jpg" alt="coding" height="2500px">
+<img align="right" src="./Programmer.jpg" alt="coding" height="250px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinbhawar2014&label=Profile%20views&color=0e75b6&style=flat" alt="sachinbhawar2014" /> </p>
 
