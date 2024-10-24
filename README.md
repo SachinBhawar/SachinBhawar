@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Bhawar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" src="./Programmer.jpg" alt="coding" height="450px">
+<img align="right" src="./Programmer.jpg" alt="coding" height="2500px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinbhawar2014&label=Profile%20views&color=0e75b6&style=flat" alt="sachinbhawar2014" /> </p>
 
