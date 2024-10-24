@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Bhawar</h1> <h3 align="center">Aspiring Full Stack Developer with a passion for creating dynamic, responsive web applications using the MERN stack.</h3> <p align="center"> 
 
-<img align="right" src="./Programmer.jpg" alt="coding" height="250px">
+
 
 
 
