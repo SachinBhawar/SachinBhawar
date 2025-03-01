@@ -1,12 +1,12 @@
 
 Hi there 👋 , I'm Sachin Bhawar
  
-About Me 🚀
+**About Me 🚀**
 
 
-🌱 I’m a Full stack developer.
+-🌱 I’m a Full stack developer.
 
-👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
+-👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
 
 
 **Languages:**  
